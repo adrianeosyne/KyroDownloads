@@ -1,0 +1,19 @@
+# Installed dependencies
+node_modules/
+
+# TypeScript and Electron Builder outputs
+dist/
+release/
+
+# Local environment and signing material
+.env
+.env.*
+*.p12
+*.pfx
+*.pem
+*.key
+
+# Logs and local OS/editor files
+*.log
+.DS_Store
+Thumbs.db
